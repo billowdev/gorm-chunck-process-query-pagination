@@ -1,0 +1,1 @@
+# gorm-chunck-process-query-pagination
